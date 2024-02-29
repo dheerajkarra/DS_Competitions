@@ -8,6 +8,7 @@ https://github.com/AlgoTrading101/Conformal-Prediction-MAPIE-Algotrading101 \
 https://github.com/scikit-learn-contrib/MAPIE/tree/master/notebooks
 4. SQL - https://learnsql.com/cookbook/
 5. DS Cheatsheets - https://github.com/FavioVazquez/ds-cheatsheets
+6. Books - https://peopleanalytics-regression-book.org/linear-reg-ols.html
    
 
 
