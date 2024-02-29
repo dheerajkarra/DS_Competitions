@@ -6,7 +6,8 @@ https://github.com/valeman/awesome-conformal-prediction \
 https://github.com/aangelopoulos/conformal-prediction \
 https://github.com/AlgoTrading101/Conformal-Prediction-MAPIE-Algotrading101 \
 https://github.com/scikit-learn-contrib/MAPIE/tree/master/notebooks
-4. SQL - https://learnsql.com/cookbook/ 
+4. SQL - https://learnsql.com/cookbook/
+5. DS Cheatsheets - https://github.com/FavioVazquez/ds-cheatsheets
    
 
 
