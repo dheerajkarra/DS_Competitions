@@ -9,7 +9,8 @@ https://github.com/scikit-learn-contrib/MAPIE/tree/master/notebooks
 4. SQL - https://learnsql.com/cookbook/
 5. DS Cheatsheets - https://github.com/FavioVazquez/ds-cheatsheets
 6. Books - https://peopleanalytics-regression-book.org/linear-reg-ols.html \
-   https://topepo.github.io/caret/index.html
+   caret in R - https://topepo.github.io/caret/index.html \
+   R - https://bookdown.org/markhoff/css/
    
 
 
